@@ -2,6 +2,10 @@
 
 <h3>Interface simples desenvolvida com a <em>API Swing</em> do Java</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72031181/147887042-28b4372d-468d-42fd-a100-f9a2cc0b8d24.png" width="400" height="400" alt="diagrama-uml-calculadora-java"/>
+</p><br/>
+
 <p aling="justify">Durante o tempo de aprendizado da API Swing da linguagem Java, busquei desenvolver um projeto simples, mas que envolvesse o máximo de propriedades que
 consegui compreender, sempre tentando construir um programa com uma interface limpa.</p><br/>
 
